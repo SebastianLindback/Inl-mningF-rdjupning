@@ -1,0 +1,12 @@
+C:\Users\sebbe\Documents\dev\repo\C#\Miniräknare\SL_Inlämning\CalcLib\bin\Debug\net6.0\CalcLib.deps.json
+C:\Users\sebbe\Documents\dev\repo\C#\Miniräknare\SL_Inlämning\CalcLib\bin\Debug\net6.0\CalcLib.dll
+C:\Users\sebbe\Documents\dev\repo\C#\Miniräknare\SL_Inlämning\CalcLib\bin\Debug\net6.0\ref\CalcLib.dll
+C:\Users\sebbe\Documents\dev\repo\C#\Miniräknare\SL_Inlämning\CalcLib\bin\Debug\net6.0\CalcLib.pdb
+C:\Users\sebbe\Documents\dev\repo\C#\Miniräknare\SL_Inlämning\CalcLib\obj\Debug\net6.0\CalcLib.csproj.AssemblyReference.cache
+C:\Users\sebbe\Documents\dev\repo\C#\Miniräknare\SL_Inlämning\CalcLib\obj\Debug\net6.0\CalcLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebbe\Documents\dev\repo\C#\Miniräknare\SL_Inlämning\CalcLib\obj\Debug\net6.0\CalcLib.AssemblyInfoInputs.cache
+C:\Users\sebbe\Documents\dev\repo\C#\Miniräknare\SL_Inlämning\CalcLib\obj\Debug\net6.0\CalcLib.AssemblyInfo.cs
+C:\Users\sebbe\Documents\dev\repo\C#\Miniräknare\SL_Inlämning\CalcLib\obj\Debug\net6.0\CalcLib.csproj.CoreCompileInputs.cache
+C:\Users\sebbe\Documents\dev\repo\C#\Miniräknare\SL_Inlämning\CalcLib\obj\Debug\net6.0\CalcLib.dll
+C:\Users\sebbe\Documents\dev\repo\C#\Miniräknare\SL_Inlämning\CalcLib\obj\Debug\net6.0\ref\CalcLib.dll
+C:\Users\sebbe\Documents\dev\repo\C#\Miniräknare\SL_Inlämning\CalcLib\obj\Debug\net6.0\CalcLib.pdb

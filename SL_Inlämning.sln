@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniCalcCLI", "MiniCalcCLI\MiniCalcCLI.csproj", "{43966DDD-F878-4979-A376-FC8D1170CA92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcLib", "CalcLib\CalcLib.csproj", "{75CF8D30-8ACC-438B-993F-9960FF0C25E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcTest.Tests", "CalcTest.Tests\CalcTest.Tests.csproj", "{170C6ABB-2886-400E-ADF6-08500043D7CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43966DDD-F878-4979-A376-FC8D1170CA92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43966DDD-F878-4979-A376-FC8D1170CA92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43966DDD-F878-4979-A376-FC8D1170CA92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43966DDD-F878-4979-A376-FC8D1170CA92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75CF8D30-8ACC-438B-993F-9960FF0C25E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CF8D30-8ACC-438B-993F-9960FF0C25E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CF8D30-8ACC-438B-993F-9960FF0C25E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CF8D30-8ACC-438B-993F-9960FF0C25E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{170C6ABB-2886-400E-ADF6-08500043D7CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170C6ABB-2886-400E-ADF6-08500043D7CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170C6ABB-2886-400E-ADF6-08500043D7CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170C6ABB-2886-400E-ADF6-08500043D7CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
